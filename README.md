@@ -1,6 +1,4 @@
-Sistema Web
+Site Admin Web
 ========
 
-Sistema web para controle de Atualizações
-
-![](http://marcosjunior.hol.es/git-hub/sistema-web.png)
+Web System to control of Updates
